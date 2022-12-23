@@ -1,4 +1,4 @@
-Hi 👋 My name is Abudhar Ghifari
+Hi 👋 Myself Abudhar Ghifari
 ================================
 
 Full Stack Web Developer
